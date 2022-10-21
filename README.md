@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi! I'm Anders. #
 
-<!--
-**anderseline/anderseline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="res/headshot.jpg" height=345 width=500>
 
-Here are some ideas to get you started:
+<p>
+    I'm currently a senior at Lehigh University studying Industrial & Systems Engineering and Finance with minors in Data Science, Economics, and Computer Science. Originally from central Ohio, I love learning new things, working with others, playing and listening to music, and keeping myself busy doing things I find interesting - some of these projects you can find below! I'll begin working at Ernst & Young and a Technology Consultant for Financial Services companies in early 2023. Until then, I'm finishing up my studies and working on a few side projects! You can find more information on my professional background on <a href="https://www.linkedin.com/in/anders-seline/">LinkedIn</a>.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects #
+
+<ul>
+    <li><a href="https://github.com/SenateTrades/SenateTrades">SenateTrades</a> - A automated alert service to track the stock trades of US senators. Created as a passion project</li>
+    <li><a href="https://github.com/anderseline/TensorFlowLearning">TensorFlow Certification Studying</a> - My repository for taking notes, completing code, watching lectures while preparing to take the Tensorflow certification exam</li>
+    <li><a href="https://github.com/anderseline/MLRecessionIndication">Predicting Economic Recessions with Gradient Boosted Random Forest</a> - A final project a led for a finance & data science course.</li>
+</ul>
