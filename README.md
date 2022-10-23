@@ -12,4 +12,5 @@
     <li><a href="https://github.com/anderseline/SenateTrades-Release">SenateTrades</a> - A automated alert service to track the stock trades of US senators. Created as a passion project</li>
     <li><a href="https://github.com/anderseline/TensorFlowLearning">TensorFlow Certification Studying</a> - My repository for taking notes, completing code, watching lectures while preparing to take the Tensorflow certification exam</li>
     <li><a href="https://github.com/anderseline/MLRecessionIndication">Predicting Economic Recessions with Gradient Boosted Random Forest</a> - A final project a led for a finance & data science course.</li>
+        <li><a href="https://github.com/anderseline/Python-ML">Code From Udemy Machine Learning Course</a> - Code & notes taken from a Udemy course on Python's Sci-Kit Learn library</li>
 </ul>
