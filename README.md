@@ -2,9 +2,7 @@
 
 <img src="res/headshot.jpg" height=345 width=500>
 
-<p>
-    I'm a recent graduate of Lehigh University, who studied Industrial & Systems Engineering and Finance with minors in Data Science, Economics, and Computer Science. Originally from central Ohio, I love learning new things, working with others, playing and listening to music, and keeping myself busy doing things I find interesting - some of these projects you can find below! I recently began working at Ernst & Young and a Technology Consultant for Financial Services companies in early 2023. You can find more information on my professional background on <a href="https://www.linkedin.com/in/anders-seline/">LinkedIn</a>.
-</p>
+Working at Palantir as a Deployment Strategist
 
 # Projects #
 
